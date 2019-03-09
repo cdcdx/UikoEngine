@@ -1,0 +1,133 @@
+body
+{
+	background-color:  #000000;
+	color:BBBBBB;
+	font-size: 9pt;
+	font-family:Courier New;
+	SCROLLBAR-FACE-COLOR: #505050;
+	SCROLLBAR-HIGHLIGHT-COLOR: #808080;
+	SCROLLBAR-SHADOW-COLOR: #111111;
+	COLOR: #c0c0c0;
+	SCROLLBAR-3DLIGHT-COLOR: #202020;
+	SCROLLBAR-ARROW-COLOR: #c0c0c0;
+	SCROLLBAR-TRACK-COLOR: #202020;
+	SCROLLBAR-DARKSHADOW-COLOR: #202020
+}
+table
+{
+	background-color:#333333;
+	border: 0px solid #666666;
+	font-size:9pt;
+	font-family:Courier New;
+	text-decoration:none;
+	vertical-align:left;
+	table-layout:fixed;
+	border-collapse : collapse;
+}
+a:link{
+	text-decoration : none;
+	color : #F90000;
+}
+a:visited {
+	text-decoration : none;
+	color: #a4c876;
+}
+a:hover {
+	text-decoration : underline;
+	color : #f60000;
+}
+a:active {
+	text-decoration : none;
+	color : #F90000;
+}
+div
+{
+	background-color: #333333;
+	border-color:#666666;
+	width:789px;
+	font-size:12pt;
+	color:#FFFFFF;
+	padding-right: 8px;
+	padding-left: 8px;
+	padding-bottom: 4px;
+	padding-top: 4px;
+	word-break: break-all;
+}
+th
+{
+	background: #222222;
+	/*444444;*/
+	color: #BBBBBB;
+	font-weight : normal;
+	text-align :left;
+}
+td
+{
+	border:1px solid #666666;
+	word-break : break-all;
+	color: #BBBBBB;
+}
+.td_data
+{
+	color: #a4c876;
+}
+.OutTable
+{
+	background:#2C3D65;
+	border-style : none;
+}
+.NoteTable
+{
+	background:#2C3D65;
+}
+.table_title /*td_title*/
+{
+	background: #111111;
+	text-align:left;
+	font-weight:bold;
+}
+.table_titleA /*td_titleA*/
+{
+	
+	text-align:center;
+	font-weight:bold;
+}
+.title
+{
+	color:red;
+	font-family:Arial;
+	font-size:18pt;
+	font-weight:Bold;
+	text-align:center;
+}
+.div_title  /*td_titleAB*/
+{
+	background-color: #333333;
+	font-weight:bold;
+	color:#FF0000;
+	text-align:left;
+}
+.div_Map
+{
+	background-color: #333333;
+	border-color:#959595;
+	width:750px;
+	font-size:12pt;
+	color:#FFFFFF;
+	padding-right: 5px;
+	padding-left: 4px;
+	padding-bottom: 4px;
+	padding-top: 4px;
+	word-break: break-all;
+}
+.div_MapDiv
+{
+	background-color: #333333;
+	border-color:#959595;
+	font-size:9pt;
+	font-family:Courier New;
+}
+.div_cmd
+{
+	padding: 0px 0px 0px 0px;
+}
